@@ -60,6 +60,8 @@ The notebook explicitly uses the same `clean_text`, tokenizer and `pad_sequences
 
 ## Requirements
 
+- First run the .ipynb file in google colab using integrated GPU and add the Datasets(https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification/overview) in the folder and run properly generate the model file and put that into the .keras folder separately and then run everything..
+
 - Node.js 20+
 - Python 3.10–3.13
 - MongoDB 7+ (local or Atlas). MongoDB Compass is the GUI; the app connects to MongoDB itself.
